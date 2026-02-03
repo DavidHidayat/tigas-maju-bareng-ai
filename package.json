@@ -1,0 +1,23 @@
+{
+  "name": "tugas-maju-bareng-ai",
+  "version": "1.0.0",
+  "description": "Tugas sebagai kelulusan pada Kelas Maju Bareng AI for Developer by Hactive8",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "gemini-ai",
+    "hactive8",
+    "maju-bareng-ai"
+  ],
+  "author": "David Hidayat",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
